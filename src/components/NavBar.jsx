@@ -76,9 +76,6 @@ export default function NavBar() {
                                     <a className="nav-link" href="#portfolio">Portfolio</a>
                                 </li>
                                 <li className="nav-item dropdown">
-                                    <a className="nav-link" href="#testimonials">Testimonials</a>
-                                </li>
-                                <li className="nav-item dropdown">
                                     <a className="nav-link" href="#socialmedias">Social Medias</a>
                                 </li>
                             </ul>

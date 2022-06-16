@@ -1,7 +1,6 @@
 import { useEffect } from "react"
 import Shuffle from 'shufflejs'
 import imagesLoaded from 'imagesloaded'
-import Image from "next/image"
 
 export default function PortfolioGrid({ portfolio }) {
     useEffect(() => {
@@ -29,7 +28,7 @@ export default function PortfolioGrid({ portfolio }) {
             {/* <!-- Portfolio item--> */}
             {portfolio.data.map(p => (
                 <article key={p.title} className="masonry-grid-item" data-groups={`["${p.type}"]`}>
-                    <a className="card card-hover h-100 border-0 shadow" href="#">
+                    <a className="card card-hover h-100 border-0 shadow" target="_blank" rel="noreferrer" href={p.url}>
                         <img className="card-img-top" src={p.image} alt="Article image" />
                         <div className="card-body text-center">
                             <h3 className="h5 mb-1">{p.title}</h3><span className="fs-sm text-muted">{p.type.charAt(0).toUpperCase() + p.type.slice(1)}</span>
