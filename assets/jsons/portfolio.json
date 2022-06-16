@@ -1,0 +1,33 @@
+{
+    "data": [{
+            "title": "Adobus - An online bus booking platform",
+            "type": "full-stack",
+            "url": "https://adobus.co.tz",
+            "image": "/img/demo/personal-portfolio/portfolio/adobus.png"
+        },
+        {
+            "title": "Adomovies - An online movie streaming platform",
+            "type": "front-end",
+            "url": "https://adomovies.com",
+            "image": "/img/demo/personal-portfolio/portfolio/adomovies.png"
+        },
+        {
+            "title": "AdoTelevesion - An online tv streaming platform",
+            "type": "front-end",
+            "url": "https://adobus.co.tz",
+            "image": "/img/demo/personal-portfolio/portfolio/adotelevision.png"
+        },
+        {
+            "title": "Makini SMS - An sms platform that use NLP to provide educational contents like quizes and short notes",
+            "type": "AI",
+            "url": "https://sms.shuledirect.co.tz",
+            "image": "/img/demo/personal-portfolio/portfolio/makini.png"
+        },
+        {
+            "title": "Ticha Kidevu - It's A conversational AI that use NLP to chat with students about educational contents",
+            "type": "AI",
+            "url": "https://tichakidevu.shuledirect.co.tz",
+            "image": "/img/demo/personal-portfolio/portfolio/tichakidevu.png"
+        }
+    ]
+}
