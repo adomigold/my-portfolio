@@ -12,10 +12,10 @@
             "image": "/img/demo/personal-portfolio/portfolio/adomovies.png"
         },
         {
-            "title": "AdoTelevesion - An online tv streaming platform",
+            "title": "Adomusic - Discover, listen and stream musics for free",
             "type": "front-end",
-            "url": "https://adotelevision.vercel.app",
-            "image": "/img/demo/personal-portfolio/portfolio/adotelevision.png"
+            "url": "https://adomusic.vercel.app/",
+            "image": "/img/demo/personal-portfolio/portfolio/adomusic.png"
         },
         {
             "title": "Makini SMS - An sms platform that use NLP to provide educational contents like quizes and short notes",
