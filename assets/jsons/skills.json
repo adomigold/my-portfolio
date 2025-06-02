@@ -1,12 +1,12 @@
 {
     "data": [{
-            "title": "Full-stack Web Application Development",
-            "description": "For the past 3 years i have been developing work and personal projects for both front-end and back-end development.",
+            "title": "Full-stack Mobile and Web Application Development",
+            "description": "For the past 3 years i have been developing work and personal projects for both mobile and web applications using front-end and back-end development.",
             "image": "/img/demo/personal-portfolio/services/01.svg"
         },
         {
             "title": "AI and Machine Learning",
-            "description": "Im also working on two AI platforms using Natural Language Processing at Shule Direct. Those platforms are Makini SMS using NLP for providing Quizes to students through SMS and Ticha Kidevu AI who is a conversational AI Teacher.",
+            "description": "I worked also on two AI platforms using Natural Language Processing at Shule Direct. Those platforms are Makini SMS using NLP for providing Quizes to students through SMS and Ticha Kidevu AI who is a conversational AI Teacher.",
             "image": "/img/demo/personal-portfolio/services/02.svg"
         },
         {

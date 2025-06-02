@@ -1,9 +1,9 @@
 {
     "data": [{
-            "title": "Adobus - An online bus booking platform",
+            "title": "Adopharma - An online pharmacy platform using ai",
             "type": "full-stack",
-            "url": "https://adobus.co.tz",
-            "image": "/img/demo/personal-portfolio/portfolio/adobus.png"
+            "url": "https://adopharma.online",
+            "image": "/img/demo/personal-portfolio/portfolio/dashboard.png"
         },
         {
             "title": "Adomovies - An online movie streaming platform",
@@ -12,22 +12,16 @@
             "image": "/img/demo/personal-portfolio/portfolio/adomovies.png"
         },
         {
-            "title": "Adomusic - Discover, listen and stream musics for free",
-            "type": "front-end",
-            "url": "https://adomusic.vercel.app/",
-            "image": "/img/demo/personal-portfolio/portfolio/adomusic.png"
+            "title": "Adoschool - An online school platform",
+            "type": "full-stack",
+            "url": "https://adoschool.com/",
+            "image": "/img/demo/personal-portfolio/portfolio/adoschool.png"
         },
         {
-            "title": "Makini SMS - An sms platform that use NLP to provide educational contents like quizes and short notes",
-            "type": "AI",
-            "url": "https://sms.shuledirect.co.tz",
-            "image": "/img/demo/personal-portfolio/portfolio/makini.png"
-        },
-        {
-            "title": "Ticha Kidevu - It's A conversational AI that use NLP to chat with students about educational contents",
-            "type": "AI",
-            "url": "https://tichakidevu.shuledirect.co.tz",
-            "image": "/img/demo/personal-portfolio/portfolio/tichakidevu.png"
+            "title": "DMRX - Dawamkononi warehouse and sales platform",
+            "type": "mobile-app",
+            "url": "https://play.google.com/store/apps/details?id=com.dawamkononi.operations&pcampaignid=web_share",
+            "image": "/img/demo/personal-portfolio/portfolio/dmrx.png"
         }
     ]
 }
