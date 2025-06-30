@@ -12,6 +12,18 @@
             "image": "/img/demo/personal-portfolio/portfolio/adomovies.png"
         },
         {
+            "title": "Adomovies - Window Desktop App for Adomovies",
+            "type": "mobile-app",
+            "url": "https://github.com/AdoBus/adomovie-releases/releases/download/exe1.0.0.0/adomovies-setup.exe",
+            "image": "/img/demo/personal-portfolio/portfolio/adomovies-desktop.png"
+        },
+        {
+            "title": "Adomovies - Mobile app for Adomovies",
+            "type": "mobile-app",
+            "url": "https://github.com/AdoBus/adomovie-releases/releases/download/1.0.0/Adomovies.apk",
+            "image": "/img/demo/personal-portfolio/portfolio/adomovies-mobile.jpg"
+        },
+        {
             "title": "Adoschool - An online school platform",
             "type": "full-stack",
             "url": "https://adoschool.com/",
