@@ -14,13 +14,13 @@
         {
             "title": "Adomovies - Window Desktop App for Adomovies",
             "type": "mobile-app",
-            "url": "https://github.com/AdoBus/adomovie-releases/releases/download/v2.0.3/adomovies-setup.exe",
+            "url": "https://adomovies.com/downloads",
             "image": "/img/demo/personal-portfolio/portfolio/adomovies-desktop.png"
         },
         {
             "title": "Adomovies - Mobile app for Adomovies",
             "type": "mobile-app",
-            "url": "https://github.com/AdoBus/adomovie-releases/releases/download/1.0.0/Adomovies.apk",
+            "url": "https://adomovies.com/downloads",
             "image": "/img/demo/personal-portfolio/portfolio/adomovies-mobile.jpg"
         },
         {
